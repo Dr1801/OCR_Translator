@@ -12,3 +12,51 @@ The project uses Tesseract OCR engine sponsored by Google since 2006 to improve 
 6. You can also click the "Select File" button, then select the document you need to translate (**Note: this function will sometimes be unstable)
 
 # Note: The product uses some open source tools 
+# Support language:
+Arabic
+
+Bulgarian
+
+Chinese(Traditional and Simplified)
+
+Croatian
+
+Czech
+
+Danish
+
+Dutch
+
+English
+
+Finnish
+
+French
+
+German
+
+Greek
+
+Hungarian 
+
+Korean
+
+Italian
+
+Japanese
+
+Polish
+
+Portuguese
+
+Russian
+
+Slovenian
+
+Spanish
+
+Swedish
+
+Turkish
+
+Vietnamese
