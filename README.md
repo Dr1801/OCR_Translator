@@ -60,3 +60,6 @@ Swedish
 Turkish
 
 Vietnamese
+
+# Because the source code is too big, I just upload the software
+# If you want the source code, contact me by email
