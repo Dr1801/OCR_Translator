@@ -1,6 +1,7 @@
 # Present ideas:
 Inspired by the difficulties in studying and working during the COVID-19 pandemic.
 OCR_Translator was born, with the purpose of sharing difficulties, reducing dictionary lookup time and improving the quality of work and study.
+
 The project uses Tesseract OCR engine sponsored by Google since 2006 to improve product accuracy.
 
 # User manual:
@@ -13,7 +14,9 @@ The project uses Tesseract OCR engine sponsored by Google since 2006 to improve 
 
 # Note: 
 The product uses some open source tools 
+
 Because the source code is too big, I just upload the software
+
 If you want the source code, contact me by email
 
 # Support language:
