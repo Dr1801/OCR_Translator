@@ -11,7 +11,11 @@ The project uses Tesseract OCR engine sponsored by Google since 2006 to improve 
 5. You can also press "scan" to use the screen scanning feature, after tapping select the text you want to translate
 6. You can also click the "Select File" button, then select the document you need to translate (**Note: this function will sometimes be unstable)
 
-# Note: The product uses some open source tools 
+# Note: 
+The product uses some open source tools 
+Because the source code is too big, I just upload the software
+If you want the source code, contact me by email
+
 # Support language:
 Arabic
 
@@ -60,6 +64,3 @@ Swedish
 Turkish
 
 Vietnamese
-
-# Because the source code is too big, I just upload the software
-# If you want the source code, contact me by email
