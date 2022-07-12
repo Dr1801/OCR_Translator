@@ -19,29 +19,3 @@ Because the source code is <b>too big</b>, I <b>just upload the software</b>
 
 If you want the source code, contact me by email
 
-# Support language:
-```bash
-Arabic
-Bulgarian
-Chinese(Traditional and Simplified)
-Croatian
-Czech
-Danish
-Dutch
-English
-Finnish
-French
-German
-Greek
-Hungarian 
-Korean
-Italian
-Japanese
-Polish
-Portuguese
-Russian
-Slovenian
-Spanish
-Swedish
-Turkish
-Vietnamese
